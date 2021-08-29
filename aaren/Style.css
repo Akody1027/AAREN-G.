@@ -1,0 +1,18 @@
+﻿html {
+    border-width: 20px;
+    border-style: dotted;
+    background-color: pink;
+    border-color: hotpink;
+}
+
+H1 {
+    text-align:center;
+    color:deeppink;
+    font-size:300%;
+}
+.image1{
+    border-style:solid;
+    border-color:lightpink;
+    border-width:10px;
+    text-align:center;
+}
